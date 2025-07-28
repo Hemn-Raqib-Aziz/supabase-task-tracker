@@ -21,9 +21,12 @@
 
 | 📝 Signup Form | ✅ Email Confirmation | 📧 Magic Link Email |
 |----------------|----------------------|---------------------|
-| <img width="1715" height="989" alt="1 1 Signup" src="https://github.com/user-attachments/assets/dee6b437-e77d-4dd6-8d20-76bcfbafafe8" />
- | ![1 1 Signup]<img width="1715" height="989" alt="1 1 Signup" src="https://github.com/user-attachments/assets/5b5463c3-f655-4fb1-aaed-7b2d9ac19c16" />
- | ![1 email-verification](https://github.com/user-attachments/assets/3fa6ca88-34f1-48fe-b131-5409dfa26429) |
+| <img width="1715" height="989" alt="localhost_5173_forgot-password (1)" src="https://github.com/user-attachments/assets/a69123b9-ab43-45b2-bc21-e1f5031f0f6c" />
+
+ | <img width="1715" height="989" alt="1 1 Signup" src="https://github.com/user-attachments/assets/9b83ebc3-2824-4a86-bfb5-501ea075b57a" />
+
+ | <img width="650" height="246" alt="1 email-verification" src="https://github.com/user-attachments/assets/f6bf6f34-80aa-4761-b90a-cdac07b32430" />
+ |
 | *User registration with email & password* | *Success notification after signup* | *Confirmation email with magic link* |
 
 | 🔑 Signin Form | 🔄 Forgot Password Request | ⚠️ Email Alert | 📧 Email Received | 🔐 Password Reset Form |
