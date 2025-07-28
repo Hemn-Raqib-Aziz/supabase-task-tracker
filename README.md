@@ -21,9 +21,7 @@
 
 | 📝 Signup Form | ✅ Email Confirmation | 📧 Magic Link Email |
 |----------------|----------------------|---------------------|
-| ![localhost_5173_forgot-password (1)](https://github.com/user-attachments/assets/a69123b9-ab43-45b2-bc21-e1f5031f0f6c)
- | ![1 1 Signup](https://github.com/user-attachments/assets/9b83ebc3-2824-4a86-bfb5-501ea075b57a)
- | ![1 email-verification](https://github.com/user-attachments/assets/f6bf6f34-80aa-4761-b90a-cdac07b32430)
+| ![localhost_5173_forgot-password (1)](https://github.com/user-attachments/assets/a69123b9-ab43-45b2-bc21-e1f5031f0f6c) | ![1 1 Signup](https://github.com/user-attachments/assets/9b83ebc3-2824-4a86-bfb5-501ea075b57a) | ![1 email-verification](https://github.com/user-attachments/assets/f6bf6f34-80aa-4761-b90a-cdac07b32430)
 | *User registration with email & password* | *Success notification after signup* | *Confirmation email with magic link* |
 
 | 🔑 Signin Form | 🔄 Forgot Password Request | ⚠️ Email Alert | 📧 Email Received | 🔐 Password Reset Form |
