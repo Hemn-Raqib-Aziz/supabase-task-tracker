@@ -28,21 +28,14 @@
 
 | 🔑 Signin Form | 🔄 Forgot Password Request | ⚠️ Email Alert | 📧 Email Received | 🔐 Password Reset Form |
 |----------------|---------------------------|----------------|-------------------|------------------------|
-| ![2 Signin](<img width="1715" height="989" alt="2 Signin" src="https://github.com/user-attachments/assets/9cfa7a34-e2c5-4bc9-98b9-4de12e8478fd" />
-) | ![3 request-password1](<img width="1715" height="989" alt="3 request-password1" src="https://github.com/user-attachments/assets/8d7073c0-96a5-4acd-9ea1-53ec4bf22cfd" />
-) | ![3 request-password2](<img width="1715" height="989" alt="3 request-password2" src="https://github.com/user-attachments/assets/986751f1-d60e-4d4f-acbf-571e02cbf2ff" />
-) | ![3 email-magic-link3](<img width="652" height="242" alt="3 email-magic-link3" src="https://github.com/user-attachments/assets/660fdee9-3197-4354-8392-34cb7a37c5f9" />
-) | ![localhost_5173_forgot-password](<img width="1715" height="989" alt="localhost_5173_forgot-password" src="https://github.com/user-attachments/assets/0a98111a-f1dc-4ed4-9681-8ae16fe834b8" />
-) |
+| ![2 Signin](https://github.com/user-attachments/assets/9cfa7a34-e2c5-4bc9-98b9-4de12e8478fd) | ![3 request-password1](https://github.com/user-attachments/assets/8d7073c0-96a5-4acd-9ea1-53ec4bf22cfd) | ![3 request-password2](https://github.com/user-attachments/assets/986751f1-d60e-4d4f-acbf-571e02cbf2ff) | ![3 email-magic-link3](https://github.com/user-attachments/assets/660fdee9-3197-4354-8392-34cb7a37c5f9) | ![localhost_5173_forgot-password](https://github.com/user-attachments/assets/0a98111a-f1dc-4ed4-9681-8ae16fe834b8) |
 | *User login interface* | *Email request for password reset* | *Alert user to check reset email* | *The email sent to reset password* | *New password setup form* |
 
 ### 📋 Task Management Interface
 
 | 📋 Task Manager Dashboard | ✏️ Task Update Form |
 |---------------------------|---------------------|
-| ![4 Task- Manager](<img width="1689" height="1478" alt="4 Task- Manager" src="https://github.com/user-attachments/assets/22cffcff-4d4b-4ef0-98f9-ef188b172739" />
-) | ![5 updating-tasks](<img width="1613" height="901" alt="5 updating-tasks" src="https://github.com/user-attachments/assets/b7e26116-bd8e-445b-93f8-ee6a66d887b1" />
-) |
+| ![4 Task- Manager](https://github.com/user-attachments/assets/22cffcff-4d4b-4ef0-98f9-ef188b172739) | ![5 updating-tasks](https://github.com/user-attachments/assets/b7e26116-bd8e-445b-93f8-ee6a66d887b1) |
 | *Complete task management interface* | *Edit task form with image upload* |
 
 </div>
